@@ -1,0 +1,23 @@
+body {
+    font-size: 15pt;
+}
+button{
+  width: 300px;
+  height: 50px;
+}
+.btn1{
+  background-color: red;
+}
+.btn2{
+  background-color: green;
+}
+#div{
+  height: 200px;
+  width: 200px;
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 30px;
+  text-align: center;
+  margin: auto;
+}
