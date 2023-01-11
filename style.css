@@ -1,6 +1,7 @@
 body {
     font-size: 15pt;
     text-align: center;
+    margin: auto;
 }
 button{
   width: 300px;
