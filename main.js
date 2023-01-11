@@ -10,7 +10,7 @@ buttonAdd.addEventListener("click",() => {
   setTimeout(function(){
     div.style.backgroundColor = "white";
     buttonAdd.style.backgroundColor = "red"
-    },2000)
+    },3000)
   
 } );
 
@@ -21,5 +21,5 @@ buttonRemove.addEventListener("click",() => {
   setTimeout(function() {
     div.style.backgroundColor = "white";
     buttonRemove.style.backgroundColor = "green"
-  }, 2000)
+  }, 3000)
 })
